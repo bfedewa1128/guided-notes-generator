@@ -1,0 +1,12 @@
+{
+  "name": "guided-notes-generator",
+  "displayName": "Guided Notes Generator",
+  "version": "1.0.0",
+  "description": "Turns a lesson or a whole module into student Guided Notes that match a sample format you provide, delivered as a Word document, Google Doc, or PDF.",
+  "author": {
+    "name": "B. Fedewa"
+  },
+  "license": "MIT",
+  "keywords": ["education", "teaching", "guided-notes", "lesson-planning", "study-guide", "k12"],
+  "icon": "./assets/icon.png"
+}
